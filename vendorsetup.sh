@@ -59,3 +59,4 @@ add_lunch_combo aokp_v500-userdebug
 add_lunch_combo aokp_vs920-userdebug
 add_lunch_combo aokp_vs980-userdebug
 add_lunch_combo aokp_yuga-userdebug
+add_lunch_combo aokp_tomato-userdebug
